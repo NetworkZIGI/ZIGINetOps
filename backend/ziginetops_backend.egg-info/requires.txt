@@ -1,0 +1,13 @@
+aiofiles
+boto3
+fastapi
+pydantic-settings
+python-multipart
+scapy
+uvicorn[standard]
+
+[dev]
+httpx
+pytest
+pytest-asyncio
+ruff
